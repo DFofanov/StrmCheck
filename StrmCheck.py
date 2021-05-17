@@ -14,7 +14,7 @@ from colorama import Fore
 
 from pathlib import Path
 
-directory = r'/Users/fofanov.dmitry/Project/Emby/111'
+directory = r'/Users/fofanov.dmitry/Project/Emby/@@@'
 AceServer = r'10.0.10.6'
 AceUrlSrv = r'http://127.0.0.1:6878/ace/getstream?infohash='
 TorrUrlSrv = r'http://ace.srv:8090/torrent/play?link='
